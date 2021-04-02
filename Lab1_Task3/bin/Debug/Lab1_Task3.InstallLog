@@ -1,0 +1,194 @@
+﻿Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Uninstalling assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Uninstalling assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Uninstalling assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Uninstalling assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Uninstalling assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Uninstalling assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.InstallLog
+   assemblypath = C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe

@@ -1,0 +1,8 @@
+C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe.config
+C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.exe
+C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\bin\Debug\Lab1_Task3.pdb
+C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\obj\Debug\Lab1_Task3.ProjectInstaller.resources
+C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\obj\Debug\Lab1_Task3.csproj.GenerateResource.cache
+C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\obj\Debug\Lab1_Task3.csproj.CoreCompileInputs.cache
+C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\obj\Debug\Lab1_Task3.exe
+C:\Users\hodac\source\repos\Lab1_Task3\Lab1_Task3\obj\Debug\Lab1_Task3.pdb
